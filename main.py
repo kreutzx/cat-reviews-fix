@@ -6,7 +6,7 @@ specific grievances, and a number to prove it has been counting.
 
 import os
 
-REVIEW = "One star. Feeds me at 6, forgets the 3 a.m. second dinner entirely, and has sat in my chair 214 days this year."
+REVIEW = "One star. He serves dinner at 6, denies the 3 a.m. second dinner exists, and has sat in my chair 214 days this year. Correction: it was his chair for the first 213."
 
 CHAR_LIMIT = 200
 OUTPUT_DIR = "/output"

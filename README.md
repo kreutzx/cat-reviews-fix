@@ -2,7 +2,7 @@
 
 Entry for the make.fun bounty: https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990
 
-> One star. Feeds me at 6, forgets the 3 a.m. second dinner entirely, and has sat in my chair 214 days this year.
+> One star. He serves dinner at 6, denies the 3 a.m. second dinner exists, and has sat in my chair 214 days this year. Correction: it was his chair for the first 213.
 
 ## Why this line
 
